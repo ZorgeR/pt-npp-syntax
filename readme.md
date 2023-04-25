@@ -12,3 +12,5 @@
 1) Импортировать файл *.xml в npp
 2) Выбрать подсветку синтаксиса PT-Rules-Correlation
 
+![](static/img.png)
+
